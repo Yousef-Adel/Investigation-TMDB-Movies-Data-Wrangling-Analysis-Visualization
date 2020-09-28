@@ -1,13 +1,17 @@
-# Analyze-AB-Test-Results-Data-Analyst-Nano-Degree
-projects for Data Analyst Nano degree
+# A/B testing for Movies data provided by Kaggle 
+### (This project is part of Udacity Nano Degree Program)
+#### By Yousef Adel
 
-Analyze A/B Test Results
-A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these.
+## This project divided into 3 sections:
+- Data wrangling to prepare data for proper testing process
+- Exploratory Data Analysis to find out initial insights and patterns throughout the dataset
+- Drwaing some initial conclosions 
 
-For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
-
-The data and the Jupyter Notebook, which are all of the files you need to complete the project, are provided for you in a downloadable zip file in the resources tab (as well as under "Supporting Materials" below). Note that portions of the notebook reference back to quizzes that are linked in this lesson to ensure you are on the right track.
-
-Although the quizzes in this lesson are not necessary to successfully complete the project (though they are helpful), all of the items on the Project Rubric must meet specifications to successfully complete the project.
-
-Supporting Materials
+Written with Pyhton
+IDE: Jupyter Lab
+Liabaries:
+- Pands
+- Numpy
+- Matplotlib 
+- Seaborn
+- Wordcloud 
