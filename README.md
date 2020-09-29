@@ -2,7 +2,7 @@
 ### (This project is part of Udacity Nano Degree Program)
 #### By Yousef Adel
 
-## This project divided into three sections: Click [here](My%20submission%20for%20project%202.html) to review
+## This project divided into three sections:
 - Data wrangling to prepare data for a proper testing process
 - Exploratory Data Analysis to find out initial insights and patterns throughout the dataset
 - Drawing some initial conclusions 
