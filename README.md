@@ -1,5 +1,5 @@
 # Investigation-TMDB-Movies (Wrangling, Analysis, and Visualization) - Initial insights
-### (This project is part of Udacity Nano Degree Program)
+
 #### By Yousef Adel
 
 ## This project divided into three sections:
